@@ -6,6 +6,7 @@ int HoaDon::Ma_HD=0;
 HoaDon::HoaDon(){
     Ma_HD++;
 }
+Sơn đú 
 
 HoaDon::~HoaDon(){
     Ma_HD--;
